@@ -1,16 +1,33 @@
 {
   "files": {
-    "main.css": "/test2/static/css/main.073c9b0a.css",
-    "main.js": "/test2/static/js/main.4209e5dc.js",
+    "main.css": "/test2/static/css/main.ccc55838.css",
+    "main.js": "/test2/static/js/main.5c43a2a0.js",
     "static/js/787.0c3f432a.chunk.js": "/test2/static/js/787.0c3f432a.chunk.js",
-    "static/media/logo.svg": "/test2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/IMG_E9954.jpg": "/test2/static/media/IMG_E9954.4d1ace00c3293e124276.jpg",
+    "static/media/react.svg": "/test2/static/media/react.a7cba2937728ce9ee33f15ea162f2cbf.svg",
+    "static/media/age.svg": "/test2/static/media/age.f9a944bb5aa31fbfe953dedef179f5c8.svg",
+    "static/media/mail.svg": "/test2/static/media/mail.f26f88e5f694116549a34c941e1f4a45.svg",
+    "static/media/java.svg": "/test2/static/media/java.5bf4ea75e582b785d997adc1a6ad707f.svg",
+    "static/media/bulb.svg": "/test2/static/media/bulb.e67fe9bf4658b0b6dfbe4a5bec0e1214.svg",
+    "static/media/interests.svg": "/test2/static/media/interests.34d4db0111e6f0d5525df7ad58ae329a.svg",
+    "static/media/birthday.svg": "/test2/static/media/birthday.db0ba08cd1a67f91a5f94408cf329c80.svg",
+    "static/media/study.svg": "/test2/static/media/study.50c412e5159270678bf61d3be80eadc8.svg",
+    "static/media/twitter.svg": "/test2/static/media/twitter.0303052f23107b59ae195fedfcb20c40.svg",
+    "static/media/phone.svg": "/test2/static/media/phone.40c558a8e0696e745a9d374a33f66237.svg",
+    "static/media/computer.svg": "/test2/static/media/computer.f1201059dfcaeac967f22afd4444e594.svg",
+    "static/media/degree.svg": "/test2/static/media/degree.95bbdcfd4847e8dd067b58ae4a429d0e.svg",
+    "static/media/git.svg": "/test2/static/media/git.364e2b459e74542b06709919e4440b63.svg",
+    "static/media/location.svg": "/test2/static/media/location.f9174b790be78019a9d12b82c51b31b8.svg",
+    "static/media/spring.svg": "/test2/static/media/spring.d09c2448b65642ceaacf26754a198338.svg",
+    "static/media/linkedin.svg": "/test2/static/media/linkedin.70a6e2dc4aa63fc1abf6ac7057616581.svg",
     "index.html": "/test2/index.html",
-    "main.073c9b0a.css.map": "/test2/static/css/main.073c9b0a.css.map",
-    "main.4209e5dc.js.map": "/test2/static/js/main.4209e5dc.js.map",
+    "static/media/facebook.svg": "/test2/static/media/facebook.0cf4f6a7cd4b1f6e9468dc91004e4fb9.svg",
+    "main.ccc55838.css.map": "/test2/static/css/main.ccc55838.css.map",
+    "main.5c43a2a0.js.map": "/test2/static/js/main.5c43a2a0.js.map",
     "787.0c3f432a.chunk.js.map": "/test2/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.4209e5dc.js"
+    "static/css/main.ccc55838.css",
+    "static/js/main.5c43a2a0.js"
   ]
 }
