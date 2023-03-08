@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+    /* border: 1px solid blue; */
+    position: sticky;
+    top: 0;
+    z-index: 6;
+    /* top:; */
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+    /* color: black; */
+}
+.left, .right{
+    /* border: 1px solid green; */
+    height: 100%;
+    display: flex;
+    background: #fff;
+
+    /* width: 100%; */
+}
+.right{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    /* border: 3px solid green; */
+    align-items: center;
+    column-gap: 20px;
+    padding: 0px 20px 0px 0px ;
+    
+}

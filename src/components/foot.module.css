@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200&display=swap');
+*{
+    padding: 0px;
+    margin-top: 0px;
+}
+.main{
+    /* border: 1px solid red; */
+    color: black;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+}
+.left, .right{
+    /* border: 1px solid blue; */
+    height: 100%;
+    width: 50%;
+}
+.right{
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 150px;
+    /* width: 100%; */
+    /* flex-direction: column; */
+    padding: 0px 40px 0px 0px;
+}
+.right>a{
+    /* border: 1px solid black; */
+    width: 30px;
+    margin: 0px 10px;
+}
+.left>h4{
+
+    padding: 30px 0px 0px 0px ;
+    font-size: 2.5rem;
+    font-family: 'Mulish', sans-serif;
+}
+.form{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    padding: 0px 0px 60px 0px;
+}
+.form>div>input{
+    height: 40px;
+    width: 60%;
+    border-radius: 17px;
+    padding: 0px 0px 0px 20px;
+    background: #c4c4c4;
+    border: 1px solid #c4c4c4;
+}
+.form>div>h5{
+    /* border: 1px solid blueviolet; */
+    width: 50%;
+    margin: 30px 0px 10px 0px;
+    
+}
+.form>.btn{
+    /* border: 1px solid blue; */
+    display: flex;
+    margin: 60px 0px 0px 19%;
+    width: 50%;
+}
+.form>.btn>button{
+    height: 40px;
+    width: 130px;
+    border: none;
+    background: #44292e;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 600;
+}
