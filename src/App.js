@@ -5,6 +5,7 @@ import AboutMe from './components/AboutMe';
 import Services from './components/Services';
 import Works from './components/Works.jsx';
 import Foot from './components/Foot';
+import Projects from './components/Projects';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Head className="head"></Head>
         <AboutMe/>
         <Services/>
+        <Projects/>
         <Works></Works>
         <Foot></Foot>
       </header>
